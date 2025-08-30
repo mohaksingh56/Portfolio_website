@@ -57,7 +57,7 @@ A sophisticated, professional portfolio website showcasing AI/ML expertise with 
 
 All content is based on Mohak Singh's actual resume including:
 
-- **Education**: Bennett University (CGPA: 9.22/10 - Top 5%)
+- **Education**: Bennett University (CGPA: 9.39/10 - Top 5%)
 - **Experience**: ML Engineer at Lentit, AI Research Engineer at Bennett University
 - **Projects**: NeuroVision Transformer, AutoML Studio, Learnify, GridAI, FitAI Pro
 - **Skills**: PyTorch, TensorFlow, AWS, MLOps, Computer Vision, NLP
